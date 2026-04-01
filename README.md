@@ -1,7 +1,7 @@
 <h1 align="center">⍯ 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎</h1>
 <div align="center">
 <table border="0">
-<tr><td>ᯓ cybersec-newbie , designer, and innovator</td></tr>
+<tr><td>ᯓ cybersec-newbie; into designing + innovating</td></tr>
 <tr><td>ᯓ in pursuit of yearning and learning new knowledge</td></tr>
 <tr><td>ᯓ all about making a meaningful difference</td></tr>
 <tr><td>ᯓ & thinkin' outside the box</td></tr>
