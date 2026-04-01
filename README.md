@@ -2,7 +2,7 @@
 ᯓ cybersec-newbie , designer, and innovator <br>ᯓ in pursuit of yearning and learning new knowledge<br>ᯓ all about making a meaningful difference<br>ᯓ & thinkin' outside the box
 
 <p align="center">
-![photo1](assets/photo1.jpg)
+<img src="assets/photo1.jpg" width="600" />
 </p>
 
 # ⌯⌲ tech stack:
