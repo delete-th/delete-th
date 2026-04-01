@@ -22,7 +22,7 @@
 # ⌬ 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 ...
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=delete-th&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-th&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delete-th&theme=dark" />
 </div>
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
