@@ -20,9 +20,11 @@
 </p>
 
 # ⌬ 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 ...
-![](https://github-readme-stats.vercel.app/api?username=delete-th&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=delete-th&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=delete-th&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=delete-th&theme=nord_dark" /><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=delete-th&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=delete-th&theme=nord_dark&utcOffset=8" />
+</div>
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- images from pinterest -->
