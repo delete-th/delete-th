@@ -13,7 +13,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: delete-th
-          template: terminal
+          template: berners-lee
+          setup_community_templates: berners-lee@community
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 10
