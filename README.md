@@ -1,4 +1,4 @@
-<h1 align="center">ⓘ about me:</h1>
+<h1 align="center">ⓘ 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎:</h1>
 <div align="center">
 <table border="0">
 <tr><td>ᯓ cybersec-newbie , designer, and innovator</td></tr>
@@ -20,9 +20,9 @@
 </p>
 
 # ⌬ github stats:
-![](https://github-readme-stats.vercel.app/api?username=delete-th&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=delete-th&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=delete-th&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=delete-th&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=delete-th&theme=buefy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=delete-th&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- images from pinterest -->
