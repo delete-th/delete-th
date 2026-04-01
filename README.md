@@ -1,13 +1,15 @@
 <h1 align="center">ⓘ about me:</h1>
-<p align="center">
-ᯓ cybersec-newbie , designer, and innovator <br>
-ᯓ in pursuit of yearning and learning new knowledge<br>
-ᯓ all about making a meaningful difference<br>
-ᯓ & thinkin' outside the box
-</p>
+<div align="center">
+<table border="0">
+<tr><td>ᯓ cybersec-newbie , designer, and innovator</td></tr>
+<tr><td>ᯓ in pursuit of yearning and learning new knowledge</td></tr>
+<tr><td>ᯓ all about making a meaningful difference</td></tr>
+<tr><td>ᯓ & thinkin' outside the box</td></tr>
+</table>
+</div>
 
 <p align="center">
-<img src="assets/photo1.jpg" />
+<img src="assets/photo1(1).jpg" />
 </p>
 
 # ⟨⁄⟩ tech stack: 
