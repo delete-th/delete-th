@@ -21,7 +21,6 @@
 
 # ⌬ 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 ...
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delete-th&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged" /><br/>
   <img src="https://streak-stats.demolab.com?user=delete-th&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delete-th&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
