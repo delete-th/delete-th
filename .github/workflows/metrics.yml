@@ -12,6 +12,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: delete-th
           template: classic
-          base: header, activity, community, repositories
+          base: ""
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_isocalendar: yes
+          plugin_achievements: yes
