@@ -21,8 +21,6 @@
 
 # ⌬ 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚜𝚝𝚊𝚝𝚜 ...
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=delete-th&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=delete-th&theme=dark" />
   <img src="github-metrics.svg" />
 </div>
 
