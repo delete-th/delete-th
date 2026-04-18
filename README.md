@@ -2,7 +2,7 @@
 <div align="center">
 <table border="0">
 <tr><td>ᯓ cybersec graduate [sept.2026]; into innovating + designing</td></tr>
-<tr><td>ᯓ in pursuit of yearning and learning new knowledge</td></tr>
+<tr><td>ᯓ in pursuit of yearning for and learning new knowledge</td></tr>
 <tr><td>ᯓ all about making a meaningful difference</td></tr>
 <tr><td>ᯓ & thinkin' outside the box</td></tr>
 </table>
